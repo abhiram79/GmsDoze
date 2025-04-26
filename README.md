@@ -3,8 +3,7 @@ This is a initial source code
 I do app development as a hobby and slef learning purpose. currently i have no enough time to continue this project 
 <br>
 
-# Frequently asked questions 
-Will Developement start again? idk
 
+Will Developement start again? idk
 
 
